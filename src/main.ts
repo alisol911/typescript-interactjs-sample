@@ -1,4 +1,4 @@
-import interact from '@interactjs/interact';
+import interact from 'interactjs';
 
 document.addEventListener('DOMContentLoaded', function () {
   interact('.draggable').draggable({

@@ -6,19 +6,10 @@
   "license": "MIT",
   "main": "dist/main.js",
   "dependencies": {
+    "interactjs": "^1.9.22"
   },
   "devDependencies": {
-    "@interactjs/actions": "1.9.22",
-    "@interactjs/auto-start": "1.9.22",
-    "@interactjs/core": "1.9.22",
-    "@interactjs/dev-tools": "1.9.22",
-    "@interactjs/inertia": "1.9.22",
-    "@interactjs/interact": "1.9.22",
-    "@interactjs/modifiers": "1.9.22",
-    "@interactjs/reflow": "1.9.22",
-    "@interactjs/snappers": "1.9.22",
-    "@interactjs/utils": "1.9.22",
-
+    "@interactjs/types": "^1.9.22",
     "ts-loader": "^5.3.3",
     "typescript": "^3.2.4",
     "webpack": "^4.29.0",
